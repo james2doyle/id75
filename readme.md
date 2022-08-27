@@ -27,12 +27,12 @@
 
 ### Original support files
 
-- `idobao_id75.json` - `QWERTY` layout with home row mods
 - `idobao_id75_v1_via.hex` - Firmware to return the board to the original state (no home row mods)
 - `Ibodo Programming Manuals.pdf` - Linked manual from the product page
 
 ### My customised firmware
 
+- `idobao_id75.json` - `QWERTY` layout with home row mods
 - `config.h`
 - `keymap.c`
 - `rules.mk`
