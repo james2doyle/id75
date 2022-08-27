@@ -39,7 +39,7 @@
 
 **Changes from the original:**
 
-- [home row mods](https://precondition.github.io/home-row-mods#getting-started-with-home-row-mods-on-qmk)
+- [home row mods](https://precondition.github.io/home-row-mods#getting-started-with-home-row-mods-on-qmk) that match OSX
 - `TAPPING_TERM` at `400` to make home row mods nicer to use when typing fast
 - `VIA_ENABLE` is true to make it easier to program later
 - `MOUSEKEY_ENABLE` is true and some of the default settings are tweaked
