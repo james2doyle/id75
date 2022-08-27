@@ -9,27 +9,27 @@
 
 ### Details
 
-Controller: atmega32u4
-Layout: 5x15
-Keys: 75
-Lighting: RBG underglow
-Default firmware: QMK (with Via)
+- Controller: atmega32u4
+- Layout: 5x15
+- Keys: 75
+- Lighting: RBG underglow
+- Default firmware: QMK (with Via)
 
 ### Purchasing
 
-Results page: https://www.aliexpress.com/wholesale?SearchText=Idobo+75
-Exact model used: https://www.aliexpress.com/item/32952542823.html?spm=a2g0o.order_list.0.0.21ef1802TmFIji
+- Results page: https://www.aliexpress.com/wholesale?SearchText=Idobo+75
+- Exact model used: https://www.aliexpress.com/item/32952542823.html?spm=a2g0o.order_list.0.0.21ef1802TmFIji
 
 ### Configuring
 
-Configuring with VIA: https://usevia.app/
-Layout to use in QMK configurator: https://config.qmk.fm/#/idobao/id75/v1/LAYOUT_ortho_5x15
+- Configuring with VIA: https://usevia.app/
+- Layout to use in QMK configurator: https://config.qmk.fm/#/idobao/id75/v1/LAYOUT_ortho_5x15
 
 ### Original support files
 
-`idobao_id75.json` - Original layout
-`idobao_id75_v1_via.hex` - Firmware to return the board to the original state
-`Ibodo Programming Manuals.pdf` - Linked manual from the product page
+- `idobao_id75.json` - Original layout
+- `idobao_id75_v1_via.hex` - Firmware to return the board to the original state
+- `Ibodo Programming Manuals.pdf` - Linked manual from the product page
 
 ### My customised firmware
 
